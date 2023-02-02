@@ -1,4 +1,4 @@
-#Day 6 Project
+# Day 6 Project
 # Algorithm: follow along the right edge of the wall.
 
 # If the right side is clear,
