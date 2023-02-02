@@ -3,15 +3,15 @@ This **repository** contains all notes, assignments, and projects relevant to **
 
 ## Beginner 🔰
 ***
-1. [**Day 1 Project** - Band Name Generator](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%201%20Project/main.py) - Working with Variables in Python to Manage Data
+1. [**Day 1 Project** - Band Name Generator](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%201%20Project) - Working with Variables in Python to Manage Data
   
-2. [**Day 2 Project** - Tip Calculator](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%202%20Project/main.py) - Understanding Data Types and How to Manipulate
+2. [**Day 2 Project** - Tip Calculator](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/tree/main/Day%202%20Project) - Understanding Data Types and How to Manipulate
   
-3. [**Day 3 Project** - Treasure Island](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%203%20Project/main.py) - Control Flow and Logical Operators
+3. [**Day 3 Project** - Treasure Island](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%203%20Project) - Control Flow and Logical Operators
   
-4. [**Day 4 Project** - Rock, Paper, Scissors](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%204%20Project/main.py) - Randomization and Python Lists
+4. [**Day 4 Project** - Rock, Paper, Scissors](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%204%20Project) - Randomization and Python Lists
   
-5. [**Day 5 Project** - PyPassword Generator](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%205%20Project/main.py) - Python Loops
+5. [**Day 5 Project** - PyPassword Generator](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%205%20Project) - Python Loops
 
-6. [**Day 6 Project** - Escaping the Maze](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%206%20Project/main.py) - Python Functions & Karel
+6. [**Day 6 Project** - Escaping the Maze](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%206%20Project) - Python Functions & Karel
  
