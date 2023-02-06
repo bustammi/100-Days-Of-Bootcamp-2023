@@ -15,3 +15,6 @@ This **repository** contains all notes, assignments, and projects relevant to **
 
 6. [**Day 6 Project** - Escaping the Maze](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%206%20Project) - Python Functions & Karel
  
+7. [**Day 7 Project** - Hangman Art](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%207%20Project) - Hangman
+
+8. [**Day 8 Project** - Caesar Cipher](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%208%20Project) - Function Parameters & Caesar Cipher
