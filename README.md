@@ -20,3 +20,5 @@ This **repository** contains all notes, assignments, and projects relevant to **
 8. [**Day 8 Project** - Caesar Cipher](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%208%20Project) - Function Parameters & Caesar Cipher
 
 9. [**Day 9 Project** - Secret Auction Program](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%209%20Project) - Dictionaries, Nesting, and the Secret Auction
+
+10. [**Day 10 Project** - Pythonista Calculator](https://github.com/bustammi/100-Days-Of-Bootcamp-2023/blob/main/Day%210%20Project) - Functions with Outputs
